@@ -353,8 +353,8 @@
                                 type="submit"
                                 label="Register"
                         />
-                        <pre wrap>{{ value }}</pre>
-                        <pre wrap>{{ articles }}</pre>
+<!--                        <pre wrap>{{ value }}</pre>-->
+<!--                        <pre wrap>{{ articles }}</pre>-->
                     </FormKit>
                 </div>
             </div>
